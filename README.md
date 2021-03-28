@@ -18,6 +18,12 @@
 - basics of routing using `if-then`
 - created models and controllers for enhanced routing
 - getting a specific product, finding id using regex in `req.url`
+- installed one more dependency `uuid`
+- implemented adding a new product feature
+- created utils file for utility functions
+- implemented updating product details (code similar to adding new product)
+- implemented delete function
+- without express, there is no use
 
 ## Progress
-- abe to run, read data
+- done, took 3h total, over the span of 15 days
